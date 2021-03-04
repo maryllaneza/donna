@@ -1,0 +1,23 @@
+commit 6bc91267da39fbb78528347dc274609ca9749a82
+Author: Marianela Llaneza <mary_llaneza@hotmail.com>
+Date:   Thu Mar 4 19:24:11 2021 -0300
+
+    dice HOLA
+
+commit c6c11c6c218044d957d51f0dee5c7318c06d67b8
+Author: Marianela Llaneza <mary_llaneza@hotmail.com>
+Date:   Thu Mar 4 19:06:03 2021 -0300
+
+    ahora tiene css
+
+commit ad830543f5f60bae19b73964ff3abc33b6effdc4
+Author: Marianela Llaneza <mary_llaneza@hotmail.com>
+Date:   Thu Mar 4 18:58:48 2021 -0300
+
+    Estructura básica de html
+
+commit b0414eadca93500e667d1dc2843dab0d2f6a6593
+Author: Marianela Llaneza <mary_llaneza@hotmail.com>
+Date:   Thu Mar 4 18:53:00 2021 -0300
+
+    Archivos bases
